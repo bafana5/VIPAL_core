@@ -1,4 +1,4 @@
-VIPAL_core
+VIPAL - Video and Image PRocessing Algorithms
 =========
 
 >VIPAL is the core Video and Image Processing Algorithm library developed in c++.
